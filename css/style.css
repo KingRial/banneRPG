@@ -1,0 +1,11 @@
+.canvas_container{
+	border: 1px black solid;
+	width:512;
+	height:200;
+	margin:auto;
+}
+
+.canvas_game{
+	width:100%;
+	height:100%;
+}
